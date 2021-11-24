@@ -2,7 +2,7 @@
 
 Aplicación Web con persistencia en Oracle y un base de datos no relacional
 
-Resumen:
+## Resumen: ##
 
 El proyecto consiste en desarrollar una aplicación web que utilice bases de datos como
 mecanismo de persistencia. La aplicación a desarrollar es tienda en linea donde se simula 
@@ -23,7 +23,9 @@ Tomcat, Oracle y MongoDB. Este objetivo está estrechamente relacionado con el
 objetivo específico del curso de utilizar y evaluar las tendencias actuales en el campo
 de la tecnología de base de datos.
 
-Instrucciones:
+![Resultado Página](ResultadoPagina.jpg)
+
+## Instrucciones: ##
 
  Forma de trabajo: El proyecto se puede realizar de forma individual o en grupos
 de máximo dos personas.
